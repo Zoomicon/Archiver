@@ -12,6 +12,14 @@ Archiver host "user" "password" listFile [localBaseFolder [remoteBaseFolder]]
 
 ![Folder layout](https://github.com/user-attachments/assets/856f20e8-c140-4473-bec5-d69dd9d1f0ae)
 
+```
+[www]
+Archiver.exe
+INIT.bat
+MAKE_REMOTE_FOLDERS.bat
+UPLOAD.bat
+```
+
 ### INIT.BAT
 
 ```
