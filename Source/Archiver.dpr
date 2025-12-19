@@ -10,7 +10,7 @@ Program Archiver;
   SysUtils,
   RemoteInterface in 'RemoteInterface.pas',
   FTPInterface in 'FTPInterface.pas',
-  ac_strings in '..\..\..\DELPHI\LIB\Text\ac_strings.pas',
+  ac_strings in '..\Lib\ac_strings.pas',
   FeedbackInterface in 'FeedbackInterface.pas',
   ConsoleFeedback in 'ConsoleFeedback.pas',
   GuiFeedback in 'GuiFeedback.pas';
